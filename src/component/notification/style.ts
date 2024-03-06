@@ -31,3 +31,9 @@ export const notificationBtnStyles = {
   textTransform: "capitalize",
   padding: "10px 8px",
 };
+
+export const notificationModalStyles = {
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "center",
+};
